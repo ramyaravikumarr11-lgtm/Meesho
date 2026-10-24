@@ -83,12 +83,9 @@ console.log(student.maths);
 function display()
 {
   console.log("Hello bro");
+  console.log("Welcome to JavaScript ");
   console.log("Welcome to js ");
 }
 
 // function calling
-display();
-display();
-display();
-display();
 display();
